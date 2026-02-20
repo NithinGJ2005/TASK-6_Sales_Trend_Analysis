@@ -51,3 +51,5 @@ The query produces:
 - Helps identify high-performing months
 - Detects seasonal sales trends
 - Supports revenue growth analysis
+
+## Author - Nithin G J
